@@ -7,4 +7,5 @@
 5. GarageTask (Inheritance)
 6. TestMaven (Maven, JAR plugin, Exception)
 7. JunitVendorMachine (Maven, Junit, unit test)
-8. CardDealer(enum)
+8. CardDealer (enum)
+9. SpringSppd (Spring Boot)
